@@ -1,0 +1,3 @@
+# defined_react_cli
+这是一个使用webpack5手写react项目脚手架的项目
+遗留问题：图片压缩用到的第三方包难以下载下来
