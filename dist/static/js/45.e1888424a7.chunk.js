@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_cli=self.webpackChunkreact_cli||[]).push([[45],{45:function(e,c,t){t.r(c);var n=t(294);c.default=function(){return n.createElement("div",null,"我是关于页面")}}}]);
+//# sourceMappingURL=45.e1888424a7.chunk.js.map

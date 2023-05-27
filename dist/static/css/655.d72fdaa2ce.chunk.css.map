@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/655.d72fdaa2ce.chunk.css","mappings":"AAAA,MACE,SACF","sources":["webpack://react-cli/./src/pages/home/index.less"],"sourcesContent":[".home{\n  color: red;\n}"],"names":[],"sourceRoot":""}
